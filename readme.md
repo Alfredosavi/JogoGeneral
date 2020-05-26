@@ -49,23 +49,24 @@ jogadas restantes será descartada, marcando 0 (zero) para a jogada corresponden
 6) Ao final de 13 rodadas, com a cartela toda preenchida, somam-se os valores de cada coluna,
 e o jogador que obtiver mais pontos será considerado o vencedor.
 
-|       | Jogador 1 | Jogador 2 | Jogador 3 |   |
-|-------|-----------|-----------|-----------|---|
-| 1     |           |           |           |   |
-| 2     |           |           |           |   |
-| 3     |           |           |           |   |
-| 4     |           |           |           |   |
-| 5     |           |           |           |   |
-| 6     |           |           |           |   |
-| T     |           |           |           |   |
-| Q     |           |           |           |   |
-| F     |           |           |           |   |
-| S+    |           |           |           |   |
-| S-    |           |           |           |   |
-| G     |           |           |           |   |
-| X     |           |           |           |   |
-| Total |           |           |           |   |
-Figura 1: Cartela de marcação
+|       | Jogador 1 | Jogador 2 | Jogador 3 |
+|-------|-----------|-----------|-----------|
+| 1     |           |           |           |
+| 2     |           |           |           |
+| 3     |           |           |           |
+| 4     |           |           |           |
+| 5     |           |           |           |
+| 6     |           |           |           |
+| T     |           |           |           |
+| Q     |           |           |           |
+| F     |           |           |           |
+| S+    |           |           |           |
+| S-    |           |           |           |
+| G     |           |           |           |
+| X     |           |           |           |
+| Total |           |           |           |
+
+	Figura 1: Cartela de marcação
 
 
 #### Com base no detalhamento anterior, faça:
