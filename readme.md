@@ -98,46 +98,46 @@ jogadores:
 	valores obtidos: 4-4-5-6-6
 	para qual jogada deseja marcar: [1 - 13] Nameless?
 	1 2 3 4 5 6 7(T) 8(Q) 9(F) 10(S+) 11(S-) 12(G) 13(X)
-	- - - - - - - - - - - - -
+	- - - - - -  -     -   -     -      -     -      -
 	6
 	rolando dados para JEDI...
 	valores obtidos: 1-1-1-1-1
 	para qual jogada deseja marcar: [1 - 13] JEDI?
 	1 2 3 4 5 6 7(T) 8(Q) 9(F) 10(S+) 11(S-) 12(G) 13(X)
-	- - - - - - - - - - - - -
+	- - - - - -  -     -   -     -      -     -      -
 	12
 	rolando dados para Nameless...
 	valores obtidos: 1-5-5-5-3
 	para qual jogada deseja marcar: [1 - 13] Nameless?
 	1 2 3 4 5 6 7(T) 8(Q) 9(F) 10(S+) 11(S-) 12(G) 13(X)
-	- - - - - x - - - - - - -
+	- - - - - x   -    -   -    -      -       -     -
 	8
 	seus valores não cumprem o requisito para esta jogada!
 	rolando dados para JEDI...
 	valores obtidos: 1-2-3-4-5
 	para qual jogada deseja marcar: [1 - 13] JEDI?
 	1 2 3 4 5 6 7(T) 8(Q) 9(F) 10(S+) 11(S-) 12(G) 13(X)
-	- - - - - - - - - - - x -
+	- - - - - -  -    -    -     -      -      x     -
 	11
 	... após finalizar todas as rodadas para todos os jogadores:
 	d
 	-- Cartela de Resultados --
-			Nameless      JEDI
+						Nameless      JEDI
 	1
 	2
 	3
 	4
 	5
-	6 		  12
+	6 		       12
 	7(T)
-	8(Q)       0
+	8(Q)          0
 	9(F)
 	10(S+)
-	11(S-)                40
-	12(G)                 50
+	11(S-)                	 40
+	12(G)                    50
 	13(X)
 	----------------------------
-	Total     12          90
+	Total        12          90
 
 
 
